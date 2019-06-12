@@ -9,3 +9,8 @@ https://babeljs.io/en/repl#?babili=false&browsers=&build=&builtIns=false&spec=fa
 
 # example de jsx just using web.
 https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html
+
+
+# temos um projeto que funciona isoladamente do node
+
+Temos um projeto que funciona o [ JSX e o react](/entendendo_classe_jsx/)
