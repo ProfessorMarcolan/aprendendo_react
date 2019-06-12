@@ -9,7 +9,8 @@ class HelloMessage extends React.Component {
   }
   let objeto1 = React.createElement(HelloMessage, {
     name: "oi mundo"
-  },null);
+  },
+  null);
 
   let objeto = <HelloMessage name="Taylor" />
   ReactDOM.render(
